@@ -127,4 +127,6 @@ The API handles errors such as:
   
 Each error response includes an HTTP status code and a helpful error message to guide API consumers.
 
+---
+
 > Happy Coding! 🎉 Enjoy managing your workspace allocations!
